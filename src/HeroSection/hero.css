@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Montserrat:wght@300;400;500&display=swap');
+
+.hero-section{
+    /* background-color: rgb(16, 70, 28); */
+    min-height: 600px;
+    /* min-width: 550px; */
+    position: relative;
+    background-image: url("https://i.postimg.cc/MTZwJs5g/backgroundimg.png");
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    background-position: left;
+}
+
+.logo{
+    width: 150px;
+    height: 150px;
+    margin-left: 200px;
+    cursor: pointer;
+    /* bottom: 140px; */
+}
+
+.navLinks{
+    color: white;
+    position: relative;
+}
+
+li{
+    list-style: none;
+    font-family: 'Monteserrat';
+    font-weight: 600;   
+    display: block;
+    float: left;
+    padding: 20px;
+    position: relative;
+    bottom: 140px;
+    left: 800px;
+    cursor: pointer;
+   
+}
+
+/* .heroLabels{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+} */
+
+.hero-title{
+    color: white;
+    text-align: center;
+    margin-right: 400px;
+    font-size: 30px;  
+}
+
+.hero-subtitle{
+    color: white;
+    text-align: center;
+    margin-right: 50px;
+    font-family: 'Monteserrat';
+}
+
+.hero-btn{
+    background-color: white;
+    border-color: none;
+    position: relative;
+    top: 20px;
+    left: 620px;
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+    border-style: none;
+    cursor: pointer;
+
+}
+
+h2{
+    font-weight: 500;
+}
+
+/* .heroOne{
+    width: 300px;
+    height: 300px;
+    right: 100px;
+    position: relative;
+
+} */

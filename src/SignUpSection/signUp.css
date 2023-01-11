@@ -1,0 +1,51 @@
+.middleHalf{
+    min-height: 600px;
+    width: auto;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    background-position: left;
+    background-image: url("https://i.postimg.cc/RV72dc98/backgroundimage.png");
+}
+
+.signUpSection{
+    position: relative;
+    top: 170px;
+    padding: 30px;
+    padding-left: 900px;
+}
+
+.signUpText{
+    color: white
+}
+
+h2{
+    font-weight: 600;
+    font-size: 30px;
+}
+
+
+h4{
+    font-weight: 400;
+    font-family: 'Monteserrat';
+}
+
+.signUpForm{
+    position: relative;
+    top: 40px;
+}
+
+#emailinput{
+    height: 45px;
+    width: 300px;
+    border-style: none;
+
+}
+
+#submitinput{
+    height: 47px;
+    width: 90px;
+    background-color: rgb(168, 176, 57);
+    border-style: none;
+    cursor: pointer;
+}

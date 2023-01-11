@@ -1,0 +1,47 @@
+.midSection{
+    position: relative;
+    margin-top: 80px;
+    color: rgba(17, 38, 86, 0.96);
+}
+
+.midTitle{
+    text-align: center;
+    font-size: 18px;
+}
+
+.midSectionTabs{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+.midSubOne{
+    font-family: 'Monteserrat';
+    text-align: center;
+    padding: 30px;
+}
+
+
+.midSubTwo{
+    font-family: 'Monteserrat';
+    text-align: center;
+    padding: 30px;
+}
+
+
+
+.midSubThree{
+    font-family: 'Monteserrat';
+    text-align: center;
+    padding: 30px;
+}
+
+h3{
+    font-weight: 600;
+}
+
+h4{
+    font-weight: 400;
+}
